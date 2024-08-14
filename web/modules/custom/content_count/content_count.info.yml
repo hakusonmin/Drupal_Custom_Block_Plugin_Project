@@ -1,0 +1,7 @@
+name: 'Content Count'
+type: module
+description: 'A module to display the total number of nodes.'
+core_version_requirement: ^10 || ^11
+package: Custom
+dependencies:
+  - drupal:node
